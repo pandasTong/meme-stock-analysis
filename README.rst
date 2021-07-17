@@ -4,9 +4,15 @@
 Reddit
 #######
 
-This small project will look into the birth place of meme stock, Subreddit 'r/wallstreetbets <https://www.reddit.com/r/wallstreetbets/>'. The concept behind meme stock is so pure which overthrew the fundamentals wall street built on value investing and growth investingcan. The conecpt be explained by one simple economic model **Supply and Demand**.
+This small project will look into the birth place of meme stock, Subreddit 'r/wallstreetbets <https://www.reddit.com/r/wallstreetbets/>'_. The concept behind meme stock is so pure which overthrew the fundamentals wall street built on value investing and growth investingcan. The conecpt be explained by one simple economic model **Supply and Demand**.
 
 
 Insights to obtain:
+
 	+ When did it actually start
-	+ s
+	+ What are people's sentiment on stocks
+	+ How much are people's sentiment related to stock's price
+	+ Is chasing the rally a good move
+
+Getting Started
+####### 
