@@ -18,6 +18,6 @@ Getting Started
 ####### 
 
 Crawl:
-::
-import praw
-from psaw import PushshiftAPI
+:: python:
+	import praw
+	from psaw import PushshiftAPI.
