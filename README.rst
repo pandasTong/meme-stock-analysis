@@ -19,8 +19,7 @@ Getting Started
 
 Crawl:
 Setup Reddit API
-.. code-block:: python
-
+```python
 	import praw
 	from psaw import PushshiftAPI
 
@@ -32,4 +31,4 @@ Setup Reddit API
 		user_agent = '')
 
 	api = PushshiftAPI(r)
-
+```
