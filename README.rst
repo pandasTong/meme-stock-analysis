@@ -19,7 +19,7 @@ Getting Started
 
 Crawl:
 Setup Reddit API
-.. code-block:: python3
+.. code-block:: python
 
 	import praw
 	from psaw import PushshiftAPI
