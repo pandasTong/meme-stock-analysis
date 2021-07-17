@@ -18,6 +18,17 @@ Getting Started
 ####### 
 
 Crawl:
-:: python:
+Setup Reddit API::
+
 	import praw
-	from psaw import PushshiftAPI.
+	from psaw import PushshiftAPI
+
+	reddit = praw.Reddit(
+		client_id = '',
+		client_secret = '',
+		username = '',  # optional
+		password = '',  # optional
+		user_agent = '')
+
+	api = PushshiftAPI(r)
+
