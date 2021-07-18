@@ -45,7 +45,7 @@ Credibility
 
 **Participation:**
 
-**Sentiment**
+**Sentiment:**
 
 Correlation
 #######
