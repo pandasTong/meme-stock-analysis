@@ -59,4 +59,4 @@ def download(start, end, per_limit, order_by):
 		sleep(61)
 	df.to_csv('df.csv', index = False)
 
-download(start_time, end_time, 300, 'asc')
+download(start_time, end_time, 1000, 'asc')
