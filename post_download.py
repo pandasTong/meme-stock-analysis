@@ -56,7 +56,7 @@ def download(start, end, per_limit, order_by):
 			pass
 		if len(submissions) == 0:
 			break
-		sleep(61)
+		sleep(60)
 	df.to_csv('df.csv', index = False)
 
 download(start_time, end_time, 1000, 'asc')
