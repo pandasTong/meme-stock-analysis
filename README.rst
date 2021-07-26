@@ -39,6 +39,9 @@ Search Posts
 	score
 	upvote
 	body domain
+`2020 Posts <https://github.com/pandasTong/meme_stock_analysis/blob/0ee4cfbf7371fb2e69f0e46bb3a61e414701a2bb/2020_WSB.csv>`_
+
+`2021 Fisrt Half Posts <https://tb-reddit.s3.amazonaws.com/2021_WSB_Firsthalf.csv>`_
 
 Credibility
 #######
